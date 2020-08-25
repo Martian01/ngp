@@ -1,2 +1,1 @@
-# ngp
-Next Generation Platform
+# Next Generation Platform
